@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/tang-quoc-tuan-060b3697" target="_blank"> Tuấn Tăng </a></h1>
+<h1 align="center">👋 Hi </h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangquoctuan&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html" alt="Tuấn Tăng's Github Stats"> 
 </br>
 </br>
